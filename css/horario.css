@@ -82,3 +82,8 @@ tfoot{
 .tabla-contenedor{
     overflow: auto;
 }
+
+a{
+    text-decoration: none;
+    color: #000;
+}
